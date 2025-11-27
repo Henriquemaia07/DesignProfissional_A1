@@ -1,4 +1,4 @@
-# DesignProfissional_A1
+
 # 🎓 Design Profissional A1: Portfólio Acadêmico
 
 Bem-vindo ao meu repositório de estudos e projetos. Eu sou **Henrique Maia de Oliveira Martins**, estudante de **Análise e Desenvolvimento de Sistemas** na **UDF**, e este espaço documenta minha evolução e aplicação prática de conhecimentos.
