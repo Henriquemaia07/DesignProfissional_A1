@@ -40,4 +40,4 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 * Implementação do esquema de banco de dados via DDL no MySQL.
 
 ---
-*Desenvolvido por Gustavo Diniz.*
+
