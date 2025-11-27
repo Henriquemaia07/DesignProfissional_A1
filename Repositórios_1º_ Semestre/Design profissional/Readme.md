@@ -41,4 +41,4 @@ Os arquivos demonstram o processo de criação, desde a concepção até o resul
 ### 🌐 Conexão com Outras Disciplinas
 O conhecimento adquirido em Design Profissional é aplicado diretamente nos projetos da pasta **Desenvolvimento Front-end**, garantindo que o código não só funcione, mas também entregue uma ótima experiência ao usuário.
 
-[Voltar ao Repositório Principal (1º Semestre)](../)
+
