@@ -26,7 +26,7 @@ Esta pasta armazena o material prático e conceitual desenvolvido para exercitar
 | **Estruturas de Repetição** | Utilização de laços (`for`, `while`) para automação de tarefas repetitivas. |
 | **Funções e Modularização** | Organização de código em blocos reutilizáveis. |
 
-##🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 
 O foco principal aqui é a lógica, que é **independente da linguagem**. No entanto, a implementação dos exercícios foi realizada utilizando:
 
@@ -37,8 +37,8 @@ O foco principal aqui é a lógica, que é **independente da linguagem**. No ent
 
 ---
 
-##🔑 Skills Adquiridas
-
+## 🔑 Skills Adquiridas
+ 
 Ao final deste módulo, demonstrei proficiência em:
 
 ✅ Resolução de problemas de forma estruturada.
